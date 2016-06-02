@@ -2,7 +2,7 @@
 visualize the evolution of pdf documents throughout git commit history
 
 for all scripts use 
-bash <script_name> <directory>
+bash "script_name" "directory"
 
 order of operations:
 
