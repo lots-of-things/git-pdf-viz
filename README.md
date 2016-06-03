@@ -1,5 +1,7 @@
-# git-latex-viz
+# git-pdf-viz
 visualize the evolution of pdf documents throughout git commit history
+
+requires bash, imagemagick, and ffmpeg
 
 for all scripts use 
 bash "script_name" "directory"
