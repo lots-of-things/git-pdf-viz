@@ -6,12 +6,8 @@ bash "script_name" "directory"
 
 order of operations:
 
-save_all_pdfs
-
-pdfs_to_ims
-
-montage_ims
-
-date_montage
-
-compile_movie
+save_all_pdfs,
+pdfs_to_ims,
+ims_to_montage,
+montage_to_frame,
+frame_to_movie,
